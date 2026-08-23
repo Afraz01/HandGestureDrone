@@ -11,7 +11,7 @@ The system detects the user's hand through a webcam and classifies the gesture a
 The detected gesture is converted into a throttle command and sent to a Raspberry Pi Pico 2 W, which controls an MCP4728 DAC connected to the drone transmitter.
 
 ## DEMO
-[C:\Users\afraz\AppData\Local\CapCut\Videos]
+https://github.com/user-attachments/assets/d8321663-9217-4562-ba1a-c35f78ccc2d2
 
 ---
 
