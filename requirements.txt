@@ -1,0 +1,6 @@
+# Pinned for a reproducible Python 3.11 environment and MediaPipe Solutions API.
+opencv-python==4.11.0.86
+mediapipe==0.10.21
+numpy==1.26.4
+pyserial==3.5
+pytest==9.1.1
